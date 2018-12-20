@@ -1,6 +1,7 @@
 ---
 title: 'WH Thesis Chapter'
 author: 'You'
+bibliography: ../bib-refs.bib
 csl: style.csl
 pandemic:
   recipe: polar
