@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "output": "figures/figure1.png",
+      "width": "1",
+      "height": "1",
+      "sizex": "300",
+      "sizey": "300",
+      "fontSize": "24",
+      "fontFamily": "Lato",
+      "images": [
+        { "source": "images/image.png", "top": "0", "left": "0", "rows": "1", "cols": "1", "caption": "A" }
+      ]
+    }
+  ]
+}

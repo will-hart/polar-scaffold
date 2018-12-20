@@ -1,0 +1,6 @@
+{
+  "maths": "$\\frac{dV_m}{dt} = 7.5 \\pm 1.5$",
+  "other": {
+    "notmaths": "a phrase"
+  }
+}
